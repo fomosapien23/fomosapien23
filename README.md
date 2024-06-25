@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Rai</h1>
-<h3 align="center">A passionate developer and technology enthusiast currently pursuing my degree in MCA at NITW.</h3>
+<h3 align="center">A passionate developer and technology enthusiast .</h3>
 <img  align="right" width="350px" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
 
 # 💻 Tech Stack:
